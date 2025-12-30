@@ -1,0 +1,4 @@
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-build/CMakeFiles/precompile_obj.dir
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-build/CMakeFiles/check_src_template.dir
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-build/CMakeFiles/edit_cache.dir
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-build/CMakeFiles/rebuild_cache.dir

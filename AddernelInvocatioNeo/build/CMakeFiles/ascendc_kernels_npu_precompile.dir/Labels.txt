@@ -1,0 +1,13 @@
+# Target labels
+ ascendc_kernels_npu_precompile
+# Source files and their labels
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/CMakeFiles/ascendc_kernels_npu_precompile
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/CMakeFiles/ascendc_kernels_npu_precompile.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/CMakeFiles/ascendc_kernels_npu_precompile-complete.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-build.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-configure.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-download.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-install.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-mkdir.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-patch.rule
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_precompile-prefix/src/ascendc_kernels_npu_precompile-stamp/ascendc_kernels_npu_precompile-update.rule

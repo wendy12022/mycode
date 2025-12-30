@@ -1,0 +1,4 @@
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/out/lib64/libascendc_kernels_npu.so
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/out/include/ascendc_kernels_npu/aclrtlaunch_add_custom.h
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/out/include/ascendc_kernels_npu/aclrtlaunch_triple_chevrons_func.h
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/out/bin/ascendc_kernels_bbit

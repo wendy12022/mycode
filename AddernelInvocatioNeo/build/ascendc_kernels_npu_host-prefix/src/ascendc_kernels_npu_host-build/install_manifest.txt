@@ -1,0 +1,1 @@
+/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/build/ascendc_kernels_npu_host_dir/./objects-Debug/host_bisheng_obj/home/ma-user/work/ww/ascendc_samples/operator/ascendc/0_introduction/3_add_kernellaunch/AddKernelInvocationNeo/add_custom.cpp.o

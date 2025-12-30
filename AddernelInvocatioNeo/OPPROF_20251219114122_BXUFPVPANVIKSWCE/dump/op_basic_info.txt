@@ -1,0 +1,9 @@
+Op Name=add_custom_0
+Block Dim=8
+Run Soc Version=Ascend910_9392
+Device Id=0
+Pid=1297694
+Current Freq=1850
+Rated Freq=1850
+Is MC2=0
+Is Lccl=0
